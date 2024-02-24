@@ -1,0 +1,71 @@
+body {
+    background-color: #adcdff;
+    padding: 0;
+    margin: 0;
+}
+
+#header {
+    background-color: #156efd;
+    padding: 10px;
+    height: 280px;
+}
+
+#content {
+    background-color: white;
+    padding: 10px;
+}
+
+#footer {
+    background-color: #031635;
+    padding: 10px;
+}
+
+.photo {
+    height: 15em;
+    width: 15em;
+    float: left;
+    padding: 1em;
+    margin-right: 15px;
+}
+
+.name {
+    color: white;
+    font-size: 35px;
+}
+
+.description {
+    color: white;
+    font-size: 20px;
+}
+
+.experience {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.card {
+    background-color: #aecbf9;
+    border: 2px solid #494e56;
+    border-radius: 10px;
+    padding: 10px;
+    width: 40%;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+#footer h1 {
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#footer ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#footer ul li a {
+    color: white;
+    text-decoration: none;
+}
